@@ -1,0 +1,74 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorHint">@color/colorLightBlack</item>
+        <item name="android:textColorPrimary">@color/textColorBlack</item>
+
+    </style>
+
+
+    <!--    *********************************Text View Styles***************************************-->
+    <style name="sp14LightBlack" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/sp14</item>
+        <item name="android:textColor">@color/textColorBlack</item>
+        <item name="hintTextColor">@color/colorLightBlack</item>
+        <item name="fontFamily">@font/roboto</item>
+    </style>
+
+
+    <style name="sp13LightBlack" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/sp13</item>
+        <item name="hintTextColor">@color/colorLightBlack</item>
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textColor">@color/textColorBlack</item>
+    </style>
+
+
+    <style name="sp12LightBlack" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/sp12</item>
+        <item name="hintTextColor">@color/colorLightBlack</item>
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textColor">@color/textColorBlack</item>
+    </style>
+
+
+    <style name="sp15LightBlack" parent="@android:style/Widget.TextView">
+        <item name="fontFamily">@font/roboto</item>
+        <item name="hintTextColor">@color/colorLightBlack</item>
+        <item name="android:textSize">@dimen/sp15</item>
+        <item name="android:textColor">@color/textColorBlack</item>
+    </style>
+
+    <style name="sp16LightBlack" parent="@android:style/Widget.TextView">
+        <item name="hintTextColor">@color/colorLightBlack</item>
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textSize">@dimen/sp16</item>
+        <item name="android:textColor">@color/textColorBlack</item>
+    </style>
+
+    <style name="sp17LightBlack" parent="@android:style/Widget.TextView">
+        <item name="hintTextColor">@color/colorLightBlack</item>
+        <item name="android:textSize">@dimen/sp17</item>
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textColor">@color/textColorBlack</item>
+    </style>
+
+
+    <style name="SCBSwitch" parent="Theme.AppCompat.Light">
+        <!-- active thumb & track color (30% transparency) -->
+        <item name="colorControlActivated">@color/colorPrimary</item>
+
+<!--        &lt;!&ndash; inactive thumb color &ndash;&gt;-->
+<!--        <item name="colorSwitchThumbNormal">#f1f1f1-->
+<!--        </item>-->
+
+<!--        &lt;!&ndash; inactive track color (30% transparency) &ndash;&gt;-->
+<!--        <item name="android:colorForeground">#42221f1f-->
+<!--        </item>-->
+    </style>
+
+</resources>

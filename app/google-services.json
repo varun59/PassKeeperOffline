@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528207593155",
+    "firebase_url": "https://pass-keeper-x.firebaseio.com",
+    "project_id": "pass-keeper-x",
+    "storage_bucket": "pass-keeper-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528207593155:android:5ec5995bc0fc9fce0f2c76",
+        "android_client_info": {
+          "package_name": "com.passkeeperoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528207593155-54sntf8ckfftqe785qatad2eaai84a8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvfFoiBtLTDbcts3oBilr-5Aypbyj9oI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528207593155-54sntf8ckfftqe785qatad2eaai84a8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

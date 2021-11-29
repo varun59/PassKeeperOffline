@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Pass Keeper Offline</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_welcome_msg">Welcome to Complete offline password manager. This app saves your password in encrypted form in your device. For maintaining your privacy and security this app does not have a single network call. So you can rely on app nothing to worry about sending passwords to cloud.</string>
+    <string name="txt_answer">Answer</string>
+    <string name="txt_security_question">Security question</string>
+    <string name="txt_confirm_password">Confirm Password</string>
+    <string name="txt_master_password">Master Password</string>
+    <string name="txt_little_more">Little More..</string>
+    <string name="msg_make_sure">Make sure you filled the above fields correctly. This app doesnot support reset password over internet. Your answer is only way to reset password so kindly note it down somewhere safe.</string>
+    <string name="txt_next">Next</string>
+    <string name="txt_done">Done</string>
+    <string name="txt_pass_keeper">Pass Keeper</string>
+
+
+    <string name="key_session">KEY_SESSION</string>
+    <string name="key_biometric">KEY_BIOMETRIC</string>
+    <string name="key_name">KEY_NAME</string>
+    <string name="key_password">KEY_PASSWORD</string>
+    <string name="key_question">KEY_QUESTION</string>
+    <string name="key_answer">KEY_ANSWER</string>
+    <string name="key_backup">KEY_BACKUP</string>
+
+    <string name="msg_master_password">Master password required!</string>
+    <string name="msg_confirm_password">Confirm password required!</string>
+    <string name="msg_question">Question Required!</string>
+    <string name="msg_answer">Answer required!</string>
+    <string name="msg_password_match">Password doesn\'t match!</string>
+    <string name="msg_read">Please agree to terms!</string>
+    <string name="txt_view_saved_accounts">View Saved Accounts</string>
+    <string name="txt_settings">Settings</string>
+    <string name="txt_logout">Logout</string>
+    <string name="txt_add_account">Add Account</string>
+    <string name="txt_account_name">Account Name</string>
+    <string name="txt_required">Required!</string>
+    <string name="txt_u_view_more"><u>View More</u></string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_edit">Edit</string>
+</resources>
